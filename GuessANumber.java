@@ -12,8 +12,6 @@ public class GuessANumber {
             String playChoice = scanner.nextLine().toLowerCase();
             playAgain = playChoice.equals("yes") || playChoice.equals("y");
         }
-
-        scanner.close();
     }
 
     public static void playGame(Scanner scanner, int minRange, int maxRange, int level) {
