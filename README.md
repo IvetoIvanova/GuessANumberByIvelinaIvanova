@@ -13,7 +13,7 @@
 - Java programming language
 
 ## Source Code
-Find the source code for the project on GitHub: [GuessANumberByIvelinaIvanova.java](GuessANumberByIvelinaIvanova.java)
+Find the source code for the project on GitHub: [GuessANumberByIvelinaIvanova.java](https://github.com/IvetoIvanova/GuessANumberByIvelinaIvanova/blob/main/GuessANumber.java)
 
 ## Getting Started
 To run the game locally:
