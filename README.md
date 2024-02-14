@@ -31,6 +31,7 @@ To run the game locally:
 ![Screenshot 1](images/screenshot1.png)
 ![Screenshot 2](images/screenshot2.png)
 ![Screenshot 3](images/screenshot3.png)
+![Screenshot 3](images/screenshot4.png)
 
 ## Contributing
 Contributions are welcome! Fork the repository and submit a pull request with your improvements.
