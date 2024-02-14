@@ -1,7 +1,7 @@
-# GuessANumberByIvelinaIvanova
+# GuessTheNumberByIvelinaIvanova
 
 ## Project Description
-"GuessANumberByIvelinaIvanova" is a console-based game implemented in Java. The game challenges players to guess a randomly selected number within a specified range. After each number you enter, the computer will give you a hint of whether the number is greater or less than the number you selected until you guess the correct number. It offers progressively increasing difficulty with each level.
+"GuessTheNumberByIvelinaIvanova" is a console-based game implemented in Java. The game challenges players to guess a randomly selected number within a specified range. After each number you enter, the computer will give you a hint of whether the number is greater or less than the number you selected until you guess the correct number. It offers progressively increasing difficulty with each level.
 
 ## Features
 - Generates a random number within a predefined range.
@@ -13,7 +13,7 @@
 - Java programming language
 
 ## Source Code
-Find the source code for the project on GitHub: [GuessANumberByIvelinaIvanova.java](https://github.com/IvetoIvanova/GuessANumberByIvelinaIvanova/blob/main/GuessANumber.java)
+Find the source code for the project on GitHub: [GuessTheNumberByIvelinaIvanova.java](https://github.com/IvetoIvanova/GuessTheNumberByIvelinaIvanova/blob/main/GuessANumber.java)
 
 ## Getting Started
 To run the game locally:
