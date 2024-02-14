@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class GuessANumber {
+public class GuessTheNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean playAgain = true;
@@ -18,7 +18,7 @@ public class GuessANumber {
         int attempts = 0;
         Random random = new Random();
 
-        System.out.println("Welcome to level " + level + " of 'Guess A Number' by Ivelina Ivanova!");
+        System.out.println("Welcome to level " + level + " of 'Guess the number' by Ivelina Ivanova!");
         System.out.println("I have selected a number between " + minRange + " and " + maxRange + ". Can you guess it?");
 
         int randomNumber = random.nextInt(maxRange - minRange + 1) + minRange;
