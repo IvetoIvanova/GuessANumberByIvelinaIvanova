@@ -1,4 +1,7 @@
-# GuessTheNumberByIvelinaIvanova
+<h1 align="center">GuessTheNumberByIvelinaIvanova</h1>
+<p align="center">
+  <img src="images/GuessTheNumberImage.png" width="50%">
+</p>
 
 ## Project Description
 "GuessTheNumberByIvelinaIvanova" is a console-based game implemented in Java. The game challenges players to guess a randomly selected number within a specified range. After each number you enter, the computer will give you a hint of whether the number is greater or less than the number you selected until you guess the correct number. It offers progressively increasing difficulty with each level.
@@ -31,7 +34,11 @@ To run the game locally:
 ![Screenshot 1](images/screenshot1.png)
 ![Screenshot 2](images/screenshot2.png)
 ![Screenshot 3](images/screenshot3.png)
-![Screenshot 3](images/screenshot4.png)
+![Screenshot 4](images/screenshot4.png)
+
+## Live Demo
+You can play the game directly in your Web browser [here](https://replit.com/@stepbystepp333/GuessTheNumberByIvelinaIvanova?v=1).
+![Screenshot 5](images/screenshot5Replit.png)
 
 ## Contributing
 Contributions are welcome! Fork the repository and submit a pull request with your improvements.
