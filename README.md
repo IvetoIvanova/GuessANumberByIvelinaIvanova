@@ -1,5 +1,7 @@
-# GuessTheNumberByIvelinaIvanova
-![GuessTheNumberImage](images/GuessTheNumberImage.png)
+<h1 align="center"GuessTheNumberByIvelinaIvanova</h1>
+<p align="center">
+  <img src="images/GuessTheNumberImage.png" width="50%">
+</p>
 
 ## Project Description
 "GuessTheNumberByIvelinaIvanova" is a console-based game implemented in Java. The game challenges players to guess a randomly selected number within a specified range. After each number you enter, the computer will give you a hint of whether the number is greater or less than the number you selected until you guess the correct number. It offers progressively increasing difficulty with each level.
