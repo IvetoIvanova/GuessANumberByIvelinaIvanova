@@ -34,7 +34,11 @@ To run the game locally:
 ![Screenshot 1](images/screenshot1.png)
 ![Screenshot 2](images/screenshot2.png)
 ![Screenshot 3](images/screenshot3.png)
-![Screenshot 3](images/screenshot4.png)
+![Screenshot 4](images/screenshot4.png)
+
+## Live Demo
+You can play the game directly in your Web browser [here](https://replit.com/@stepbystepp333/GuessTheNumberByIvelinaIvanova?v=1).
+![Screenshot 5](images/screenshot5Replit.png)
 
 ## Contributing
 Contributions are welcome! Fork the repository and submit a pull request with your improvements.
