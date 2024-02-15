@@ -1,4 +1,4 @@
-<h1 align="center"GuessTheNumberByIvelinaIvanova</h1>
+<h1 align="center">GuessTheNumberByIvelinaIvanova</h1>
 <p align="center">
   <img src="images/GuessTheNumberImage.png" width="50%">
 </p>
